@@ -1,0 +1,1 @@
+El pin que se debe introducir en el movil cuando se desea vincular android con el autito es: "1234"
