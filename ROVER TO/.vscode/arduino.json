@@ -1,0 +1,5 @@
+{
+    "sketch": "ROVER_TO.ino",
+    "port": "COM9",
+    "board": "arduino:avr:uno"
+}
