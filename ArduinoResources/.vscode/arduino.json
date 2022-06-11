@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Otto_Custom\\Otto\\Otto.ino"
+}
